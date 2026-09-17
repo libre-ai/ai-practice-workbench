@@ -1,0 +1,398 @@
+{
+  "schemaVersion": "code-recovery.v1",
+  "files": [
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": ".gitignore",
+      "sourceBlob": "5a430e6a37059665b16bc9d2075c97607dff339d",
+      "destinationPath": ".gitignore",
+      "sha256": "19b23de57a80020117177f6f3a34b5b5ce98c2623a8e8e6e211453bbf6458bfa"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "LICENSE",
+      "sourceBlob": "1b3f6927d3dec9796cdd3ca4805c2aade6e377c9",
+      "destinationPath": "LICENSE",
+      "sha256": "e42acfb059ea2d39577be09acc149dee3e5cc0695dbdad2a51873380a5bd8ba4"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "LICENSES/CC-BY-4.0.txt",
+      "sourceBlob": "13ca539f377dc705af32b8d2ce89262298ea2f06",
+      "destinationPath": "docs/source-licensing/ai-practices/LICENSES/CC-BY-4.0.txt",
+      "sha256": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "LICENSES/EUPL-1.2.txt",
+      "sourceBlob": "6d8cea430e21d06532225018850da91a3f44abf5",
+      "destinationPath": "LICENSES/EUPL-1.2.txt",
+      "sha256": "57fb42fbcd0b037ce528ed8f72f1ec095d67bc6825ecf1448ff39be1fe68a4b4"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "REUSE.toml",
+      "sourceBlob": "5964baddb923150200e18173183a0c2f6b926f5e",
+      "destinationPath": "REUSE.toml",
+      "sha256": "748275d2aed756af512486bd645f8fde90a2fa63f1bbe87b2b78cd674a734c01"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/README.md",
+      "sourceBlob": "c56207abe7d3e609cf5bd36e49b52f188a24b5c5",
+      "destinationPath": "apps/practices/README.md",
+      "sha256": "6100a30e146fc4ba1f8479340a03b242b7ee6898da953a5f9e12f8841cbb462c"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/bun.lock",
+      "sourceBlob": "0c9ed9ae97f20be1642f5386c1fb8459a9297155",
+      "destinationPath": "apps/practices/bun.lock",
+      "sha256": "896453df336f405b76dab64ffac4c2a11fc5020a87321008cbf01094bf94c2d3"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/e2e/activity.e2e.ts",
+      "sourceBlob": "30bf49f2382d8ad077150d077943cdf00b9a392d",
+      "destinationPath": "apps/practices/e2e/activity.e2e.ts",
+      "sha256": "41e997b26c99154faa8b228ae83d953d909ce9fae7100e676ff00d2cc88ca17b"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/e2e/data-ownership.e2e.ts",
+      "sourceBlob": "8448099b8103f18c584880583d2dea8febc973a3",
+      "destinationPath": "apps/practices/e2e/data-ownership.e2e.ts",
+      "sha256": "33dbb71307d5577cb3c0811a8680085563829e9d514f16f8c62ff133153a25b4"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/e2e/no-js.e2e.ts",
+      "sourceBlob": "8bc3a5820befe6154fba6d526886dd737c5a47b3",
+      "destinationPath": "apps/practices/e2e/no-js.e2e.ts",
+      "sha256": "c0f8a913acb2e35108da77c2d7b2d64d1642dce6d2ace02788cfb21a2fcc2801"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/e2e/pwa.e2e.ts",
+      "sourceBlob": "a11d083c209c2ccfb05c717d0ca6a39f46cda1a6",
+      "destinationPath": "apps/practices/e2e/pwa.e2e.ts",
+      "sha256": "e8810d9ace66b628166090435a741d6f798499e6077c04b4788465ff240a9273"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/package.json",
+      "sourceBlob": "c5ae77dd61f334e76f43181ea224a0dab5114a42",
+      "destinationPath": "apps/practices/package.json",
+      "sha256": "8408d14788c7ae2640b62be12bfb28e7e6315e64be27ae4dd019c1bd1f989443"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/playwright.config.ts",
+      "sourceBlob": "42de42abf178bc0e6ce7e2734ccee82c59bbee3d",
+      "destinationPath": "apps/practices/playwright.config.ts",
+      "sha256": "04c59e5cca4a6bb41ca0ac4f0b0945351bc93e733992ec52469b942a963a81d6"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/public/icon.svg",
+      "sourceBlob": "b3426c93932ee22d58160054c3604a567c5b3f2a",
+      "destinationPath": "apps/practices/public/icon.svg",
+      "sha256": "bdeda781440f2ca0befcf5cebb6f98175f069e037cfd64f6eb11ffa86f08e57e"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/scripts/build-service-worker.ts",
+      "sourceBlob": "96711f18f9995a1eb38dc17d2739546895753ab0",
+      "destinationPath": "apps/practices/scripts/build-service-worker.ts",
+      "sha256": "d2f3c48326e9eb4320151403b8cdee9967420ec254b7054258012be9403125fa"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/scripts/build.ts",
+      "sourceBlob": "88e8f5074b44a0d11668de436336eb39e5929c9a",
+      "destinationPath": "apps/practices/scripts/build.ts",
+      "sha256": "267d2217c2b81f074f9defb71b499d5b9b8ae28baae8153aa43ee093409f2fb0"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/client/app.tsx",
+      "sourceBlob": "1984638f00e515f46f2a4277ed6e160d14b7be0e",
+      "destinationPath": "apps/practices/src/client/app.tsx",
+      "sha256": "577b9ff51a1da1a212fb2de1c5c81a6684b62a7392a94be3a744d16d11c337fc"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/client/use-activity.ts",
+      "sourceBlob": "974f76622ce869f5b6eea068b4a37be12f10532c",
+      "destinationPath": "apps/practices/src/client/use-activity.ts",
+      "sha256": "83521f32e0d8d99cc05070e6f4e005e0bb0b8084570a311d5ed7a4da58e5e222"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/domain/activity-outcome.test.ts",
+      "sourceBlob": "9830a1c9cf5c6ef4e5d623c3e8de8853d50ae887",
+      "destinationPath": "apps/practices/src/domain/activity-outcome.test.ts",
+      "sha256": "b144715864d052ab0092727a409da063e764829e67efe1564cd56081393b2bd1"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/domain/activity-outcome.ts",
+      "sourceBlob": "07fa6814496c0ea6332c081242e59fe0ad2f6ff8",
+      "destinationPath": "apps/practices/src/domain/activity-outcome.ts",
+      "sha256": "57d02ac8ff10e5a8e0dc98f10998078475171592f5c172ae45add44584a647e1"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/persistence/indexed-db-outcome-store.test.ts",
+      "sourceBlob": "d50f1b6905b91f5d9be0d6de0e676a286e85ec60",
+      "destinationPath": "apps/practices/src/persistence/indexed-db-outcome-store.test.ts",
+      "sha256": "573a840fb57123062cfbf6e0243de5aa05a11a7f6b8f368ae140ed7143ba92a0"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/persistence/indexed-db-outcome-store.ts",
+      "sourceBlob": "db6b27b20df27bd081e8314817df62284355ef3e",
+      "destinationPath": "apps/practices/src/persistence/indexed-db-outcome-store.ts",
+      "sha256": "cc8b8de30922e82e32987e8f438f25e67bf961259b2b890033c8a5d63e52ead4"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/persistence/local-outcome-store.test.ts",
+      "sourceBlob": "fb9a86eab4340d14e8454b8e23b807f344010498",
+      "destinationPath": "apps/practices/src/persistence/local-outcome-store.test.ts",
+      "sha256": "cdf2cc417daed5816c100397d19540e600b666aca114399e573929b86c880c34"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/persistence/local-outcome-store.ts",
+      "sourceBlob": "f3af70df0a5ddb53ea07d7af7004d3db3957563e",
+      "destinationPath": "apps/practices/src/persistence/local-outcome-store.ts",
+      "sha256": "c70dbb1dbde792b2c07bfda592188f32cf61d12e2671b05851a930032172af42"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/server/handler.test.ts",
+      "sourceBlob": "4eb626d0111f410f5148d707dbdcef139dbeb579",
+      "destinationPath": "apps/practices/src/server/handler.test.ts",
+      "sha256": "a759fbdd80127c89b79b31a8c5bc984ec39ae7bc9d89392cb973cd115ce4f733"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/server/handler.ts",
+      "sourceBlob": "bf3a2584909d8d954ff8d2fa668d56cf947e8a5d",
+      "destinationPath": "apps/practices/src/server/handler.ts",
+      "sha256": "b9f00ce3c470a41ae6ce25a304b115e698fa5faee0101ea29d32cc9be43b114d"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/server/index.ts",
+      "sourceBlob": "555c33acc38d5ceded523a0e1c0bf3522c99c95b",
+      "destinationPath": "apps/practices/src/server/index.ts",
+      "sha256": "b8c73e6102a568462208fd16b732517bad1364eece520ec9052cf9182708bf2d"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/shared/document.tsx",
+      "sourceBlob": "2c74bd6f473109d83772d3bd76ccde3c11f1397d",
+      "destinationPath": "apps/practices/src/shared/document.tsx",
+      "sha256": "4a833971ff18c1c81072e97c4b4964294ac038c309dd1a5350d9d2bb2453f51a"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/ui/activity-app.test.tsx",
+      "sourceBlob": "69658eda4c9ae5ce4d81641e0257f9fc16d94a41",
+      "destinationPath": "apps/practices/src/ui/activity-app.test.tsx",
+      "sha256": "ef0d4bb9b0ee573f8b91ea81cee57cf7a6e60c69bfd806ba33b73057f0b66726"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/ui/activity-app.tsx",
+      "sourceBlob": "8d8cae1ef662718d63489ca330e131dacf5d865c",
+      "destinationPath": "apps/practices/src/ui/activity-app.tsx",
+      "sha256": "728ccf69df03b3f0e93b88cb12298c758fbf749940433f242150bb36e63b449f"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/ui/activity.test.tsx",
+      "sourceBlob": "3c65abbf0d9f4256f622b93531fa9e2042d7489f",
+      "destinationPath": "apps/practices/src/ui/activity.test.tsx",
+      "sha256": "771e76098ddac40926c921273ea91ff3f9659b53b27f91c8f73c0be2c5317c8f"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/ui/activity.tsx",
+      "sourceBlob": "b4656981ffb55f2dc9badcfbe13ea7306d829713",
+      "destinationPath": "apps/practices/src/ui/activity.tsx",
+      "sha256": "79485362d44e9e1e520d9df9907f59f9fb45b20ae79804318b7e6162a152802b"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/ui/data-ownership.test.tsx",
+      "sourceBlob": "4ae7f4f8a28b1c9ab48b105614c801c0acaa11f3",
+      "destinationPath": "apps/practices/src/ui/data-ownership.test.tsx",
+      "sha256": "907f9e5d35cdbe2385205a9bc0e563de15256b41f4fd397f6850c725004b29c4"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/ui/data-ownership.tsx",
+      "sourceBlob": "6a6d2b958f4e47aecdcf542a231bf2a7c43a4455",
+      "destinationPath": "apps/practices/src/ui/data-ownership.tsx",
+      "sha256": "c27dd738fad47c4235e096443d6e4201a7d5174d379c512e88af09e7c042503e"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "apps/practices/src/ui/fixture.ts",
+      "sourceBlob": "d7ee9b087824004e0ce0b816d26aef191762a372",
+      "destinationPath": "apps/practices/src/ui/fixture.ts",
+      "sha256": "0143af4c4785bbc087525df46f90908f57faf792a3ec400cb9c7275a3219efc7"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "biome.json",
+      "sourceBlob": "1dd97cce408033f4091baef79abba702ed16bec3",
+      "destinationPath": "biome.json",
+      "sha256": "c30c4d48f37867de7abdc58331a605d40172aac3b28b311774554ad2205f4eeb"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "bun.lock",
+      "sourceBlob": "e6995a6f40934a45e5144ecc2256db55e399b2d5",
+      "destinationPath": "bun.lock",
+      "sha256": "972913d98bf3f6b3f7de790933b35769f3c77ebe383c49c536da4ad4457559ef"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "bunfig.toml",
+      "sourceBlob": "187aad3cc3469a3aa9a58a0979a0e10f61fce2b9",
+      "destinationPath": "bunfig.toml",
+      "sha256": "5da4d7eb4d1e5c1c37d487034e56773e8e1f568daec675b114c5257942f48342"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "docs/apps/practices.md",
+      "sourceBlob": "dc6a4c5ae025200593834dce14401c6051e86f74",
+      "destinationPath": "docs/apps/practices.md",
+      "sha256": "ce822e75b085ec15b1cf30b997d308ce6eaff01fcca1ba95cdf92274202fe26a"
+    },
+    {
+      "sourceRepository": "ai-practices",
+      "sourceCommit": "80d345ee86e6df84c1d990fa4d1225e27837295a",
+      "sourcePath": "package.json",
+      "sourceBlob": "64683918be394a401a7b515bc3125fbf8fb87900",
+      "destinationPath": "package.json",
+      "sha256": "557a1c771b679df4be26a22837b989021a9dbc1bb4a13ad71f01a7aeacc9df63"
+    }
+  ],
+  "excluded": [
+    {
+      "source": "ai-practices",
+      "path": ".github/workflows/ci.yml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "ai-practices",
+      "path": ".github/workflows/context-hygiene.yml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "ai-practices",
+      "path": "README.md",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    },
+    {
+      "source": "ai-practices",
+      "path": "project.v1.yaml",
+      "reason": "preserve current presentation and avoid activating historical agent/provider configuration"
+    }
+  ],
+  "status": "Source imported and locally tested; no publication or deployment performed.",
+  "adaptations": [
+    {
+      "path": ".gitignore",
+      "sourceSha256": "19b23de57a80020117177f6f3a34b5b5ce98c2623a8e8e6e211453bbf6458bfa",
+      "currentSha256": "8a2de8b3e4d25c532fd89bd03eb95e9f1c09e8876abf2a54abfa7f74aa04db9c",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "REUSE.toml",
+      "sourceSha256": "748275d2aed756af512486bd645f8fde90a2fa63f1bbe87b2b78cd674a734c01",
+      "currentSha256": "7bc9de7331bb2b204c029f8a6dec1854906c834eb4a657a6a543e3efade4352e",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "apps/practices/e2e/pwa.e2e.ts",
+      "sourceSha256": "e8810d9ace66b628166090435a741d6f798499e6077c04b4788465ff240a9273",
+      "currentSha256": "57767e7017c8fd4fd07bb37b7d47530607ada33365c34fbfd87410cdb2eb21b4",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "apps/practices/package.json",
+      "sourceSha256": "8408d14788c7ae2640b62be12bfb28e7e6315e64be27ae4dd019c1bd1f989443",
+      "currentSha256": "d77033a96f2ea662d789b9ad085757c01ef7d4c6bf3b46adaad6c3aceef8dac6",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "apps/practices/scripts/build.ts",
+      "sourceSha256": "267d2217c2b81f074f9defb71b499d5b9b8ae28baae8153aa43ee093409f2fb0",
+      "currentSha256": "18759721c1cba380108466ef60543387987f186e5d2e467094de7cc70f6dd2eb",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "apps/practices/src/server/handler.ts",
+      "sourceSha256": "b9f00ce3c470a41ae6ce25a304b115e698fa5faee0101ea29d32cc9be43b114d",
+      "currentSha256": "c9b0b5e59aae6ee043eebd67ff93a4fef58499d1171e05360ca2dedfbf7422a4",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "bun.lock",
+      "sourceSha256": "972913d98bf3f6b3f7de790933b35769f3c77ebe383c49c536da4ad4457559ef",
+      "currentSha256": "27b178c66566b1bcecf4bef446093312f8dc5eacc67793d4bcf13cace7130766",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    },
+    {
+      "path": "package.json",
+      "sourceSha256": "557a1c771b679df4be26a22837b989021a9dbc1bb4a13ad71f01a7aeacc9df63",
+      "currentSha256": "842aa1a0f314cfca548bcc047cb6f78d99a5b06a785892db1246130490a02a76",
+      "change": "Local composition, build/test adaptation or current presentation; original source remains preserved."
+    }
+  ]
+}
