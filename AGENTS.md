@@ -1,5 +1,9 @@
 # ai-practice-workbench Canonical Agent Rules
 
+> **Archived.** This repository is read-only once archived; its scope moved
+> to https://github.com/libre-ai/personal-knowledge-workspace. Do not open
+> new work here; propose it there.
+
 ## Purpose
 
 Reserved couche-1 product home for Libre AI Practice Workbench: learn through

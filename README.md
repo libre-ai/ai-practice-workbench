@@ -2,6 +2,9 @@
 <!-- SPDX-License-Identifier: CC-BY-4.0 -->
 <!-- Written for the retained Libre AI portfolio on 2026-09-14; earlier source documents and revisions retain their original licensing. -->
 
+> [!IMPORTANT]
+> **Archived.** This repository is no longer developed and is read-only. Its scope moved to [libre-ai/personal-knowledge-workspace](https://github.com/libre-ai/personal-knowledge-workspace).
+
 # Libre AI Practice Workbench
 
 Learn through practice with AI while understanding the sources you use and the work you have done yourself. This proposed product is for learners who want a clear exercise, room to try things and a way to reflect on what they learned.
